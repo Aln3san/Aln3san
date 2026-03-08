@@ -12,9 +12,10 @@
 **Database:** MySQL  
 **Front-End (Basics):** HTML, CSS, JS, Bootstrap, React (basic knowledge)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aln3san&show_icons=true&theme=radical)
+## 📊 GitHub Stats & Activity
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aln3san&layout=compact&theme=radical)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aln3san&theme=radical)
+
+![Contribution Chart](https://ghchart.rshah.org/Aln3san)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aln3san&theme=radical)
