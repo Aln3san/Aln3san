@@ -13,8 +13,8 @@
 **Front-End (Basics):** HTML, CSS, JS, Bootstrap, React (basic knowledge)
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aln3san&show_icons=true&theme=radical&hide_title=true)
+![Anas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aln3san&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aln3san&layout=compact&theme=radical&hide_title=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aln3san&layout=compact&theme=radical)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aln3san&theme=radical&hide_title=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aln3san&theme=radical)
