@@ -1,12 +1,11 @@
 # Hi 👋 I'm Anas
 
-💻 Beginner Back-End Developer
+💻 Beginner Back-End Developer | PHP & Laravel
 
 ## 🚀 About Me
-- 🔹 I am learning Back-End Development
-- 🔹 Working mainly with **PHP** and **Laravel**
-- 🔹 Building projects to improve my skills
-- 🔹 Interested in building APIs and web applications
+- Learning Back-End Development
+- Building projects to improve my skills
+- Interested in REST APIs and scalable web applications
 
 ## 🛠 Tech Stack
 
@@ -18,21 +17,18 @@
 - MySQL
 
 **Front-End (Basics)**
-- HTML
-- CSS
-- JavaScript
+- HTML, CSS, JS
 - Bootstrap
 - React (basic knowledge)
 
-## 📚 Currently Learning
-- Advanced Laravel
-- REST APIs
-- Clean Code
-- Software Design Concepts
+## 📊 GitHub Stats
 
-## 🎯 Goal
-Become a professional Back-End Developer and build scalable web applications.
+![Anas GitHub stats](https://github-readme-stats.vercel.app/api?username=anasaln3san&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anasaln3san&layout=compact&theme=radical)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasaln3san&theme=radical)
 
 ---
 
-⭐ Always learning and building new projects.
+⭐ Always learning and building new projects!
