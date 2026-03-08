@@ -23,11 +23,11 @@
 
 ## 📊 GitHub Stats
 
-![Anas GitHub stats](https://github-readme-stats.vercel.app/api?username=anasaln3san&show_icons=true&theme=radical)
+![Anas GitHub stats](https://github-readme-stats.vercel.app/api?username=Aln3san&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anasaln3san&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aln3san&layout=compact&theme=radical)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=anasaln3san&theme=radical)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aln3san&theme=radical)
 
 ---
 
