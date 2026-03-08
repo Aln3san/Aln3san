@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Anas
 
-<!--
-**Aln3san/Aln3san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner Back-End Developer
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔹 I am learning Back-End Development
+- 🔹 Working mainly with **PHP** and **Laravel**
+- 🔹 Building projects to improve my skills
+- 🔹 Interested in building APIs and web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+**Back-End**
+- PHP
+- Laravel
+
+**Database**
+- MySQL
+
+**Front-End (Basics)**
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- React (basic knowledge)
+
+## 📚 Currently Learning
+- Advanced Laravel
+- REST APIs
+- Clean Code
+- Software Design Concepts
+
+## 🎯 Goal
+Become a professional Back-End Developer and build scalable web applications.
+
+---
+
+⭐ Always learning and building new projects.
