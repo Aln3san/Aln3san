@@ -10,7 +10,7 @@
 ## 🛠 Tech Stack
 **Back-End:** PHP, Laravel  
 **Database:** MySQL  
-**Front-End (Basics):** HTML, CSS, JS, Bootstrap, React (basic knowledge)
+**Front-End (Basics):** HTML, CSS, JS, Bootstrap
 
 ## 📊 GitHub Stats & Activity
 
